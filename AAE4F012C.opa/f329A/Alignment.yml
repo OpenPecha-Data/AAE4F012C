@@ -1,0 +1,28 @@
+segment_sources:
+  I03253942:
+    type: origin_type
+    relation: translation
+    language: en
+  I16FEF1F6:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  e5493fee997d40d7815253c752fee654:
+    I03253942: 841f64fb9fd6491d963146887fe75c71
+    I16FEF1F6: ef24b70b67274fa6b31c90b665852824
+  05b768ccc3dd48a1802920a5559954a7:
+    I03253942: 3591ff94809a4954894154e6076e09b5
+    I16FEF1F6: 4ed78a47ee21461dae9d894993bed3cd
+  c945a37f836a4e2b8ac2ffb31b2015b9:
+    I03253942: b1e23f4b96dc4408ac1b84db13372bf8
+    I16FEF1F6: c11a111feb7e40a9b6cee66881d0198a
+  553c6a1fa8204e58bf05b99b970faf2f:
+    I03253942: 0ad4978d30d8455097e6e7e1b4a3665b
+    I16FEF1F6: aaec9012b34745b9a2ba00ea7d46c50b
+  210962ab1eb245c1add81c416e5edad1:
+    I03253942: a2c35a034a414819bc88ed5eb5ead668
+    I16FEF1F6: 1112cb5ae9e34c238d9cf440d2248e69
+  164b1df450b14993bf299554ae4fe878:
+    I03253942: 9d5a1b4ee15c44919c9bb79bd08bfedc
+    I16FEF1F6: 5bfc21ad1eb8462bb0f037a688f42a96

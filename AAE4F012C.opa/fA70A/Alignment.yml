@@ -1,0 +1,16 @@
+segment_sources:
+  I03253942:
+    type: origin_type
+    relation: translation
+    language: en
+  I16FEF1F6:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  0e7880b3028648d2bae5d29c9d578e9f:
+    I03253942: fab035f127a54469ad5c62376952667b
+    I16FEF1F6: 459451747bc84583b6852c2fc7305c22
+  7e8116ce04fc497bbea04431c6cccbd7:
+    I03253942: d805e71e3a464cf5a6d0e2143ef5714f
+    I16FEF1F6: 8dbfc2523c8b4dc8a9e83549d04a6422
